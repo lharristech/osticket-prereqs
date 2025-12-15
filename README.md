@@ -21,11 +21,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-Created an Azure Virtual Machine
-Logged into the VM with Remote Desktop
-Installed files (os tickets, HeidiSQL), created directories, added/changed permissions.
-Lauched application
-- Item 5
+-Created an Azure Virtual Machine
+-Logged into the VM with Remote Desktop
+-Installed files (os tickets, HeidiSQL), created directories, added/changed permissions.
+-Lauched application
+
 
 <h2>Installation Steps</h2>
 
